@@ -7,6 +7,7 @@ now press start, with profile name,enetr password and than i have new desktop li
 
 <img width="717" alt="ubuntu 2" src="https://github.com/user-attachments/assets/eb98e6de-7925-4ac2-b758-9273d81024b1" />
 # open the terminal
+
 now press ALT+CTRL+ T (open the terminal)
 
 <img width="684" alt="ubuntu 3" src="https://github.com/user-attachments/assets/7e826e9e-9b32-41eb-98d0-bab5739343ce" />
