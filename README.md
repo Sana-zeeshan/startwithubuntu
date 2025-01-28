@@ -31,6 +31,17 @@ now write a c++ program here.
 
 # save file and seletion of folder/directory
 follow the steps
-1) pwd
-2) 
+1) pwd ( show current file/directory)
+2) cd Documents/(you can chose other file name, i choose documents)
+
+   <img width="580" alt="file" src="https://github.com/user-attachments/assets/3e5a3d37-51ff-486d-9b39-6c56f6fcbfb2" />
+
+3) again pwd to check correct file loction 
+# how run c++ programm
+1) sudo apt install
+2) sudo apt install gcc
+3) write program on gvim and save it
+4) g++ programename.cpp
+5) ./a.out
+   
 
