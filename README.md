@@ -41,7 +41,7 @@ follow the steps
 1) sudo apt install
 2) sudo apt install gcc
 3) write program on gvim and save it
-4) g++ programename.cpp
-5) ./a.out
+4) g++ programename.cpp (for compilation)
+5) ./a.out ( for execute)
    
 
